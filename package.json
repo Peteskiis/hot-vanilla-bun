@@ -1,0 +1,14 @@
+{
+  "name": "Hot Vanilla Bun",
+  "description": "A nice fresh, warm vanilla js Bun server for those hot reloads",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vite": "latest"
+  },
+  "devDependencies": {}
+}
