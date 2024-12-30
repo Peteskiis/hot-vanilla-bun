@@ -11,4 +11,4 @@ bun start
 or
 bun dev
 ```
-
+Start simple and have fun!
